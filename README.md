@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 # RSL-SQL
 =======
 # RSL-SQL: Robust Schema Linking in Text-to-SQL Generation
+
+
+
 ## Overview
 
 ![](figs/framework.png)
@@ -130,4 +132,3 @@ python src/step_3_binary_selection.py --ppl_file src/information/ppl_dev.json --
 # There is one output files in this step, one is `src/sql_log/final_sql.txt`.
 python src/step_4_self_correction.py --ppl_file src/information/ppl_dev.json --sql_4_output src/sql_log/final_sql.txt --sql_refinement src/sql_log/step_3_binary.txt --start_index 0
 ```
->>>>>>> 0312a40 (first commit)
