@@ -1,5 +1,3 @@
-# RSL-SQL
-=======
 # RSL-SQL: Robust Schema Linking in Text-to-SQL Generation
 
 
