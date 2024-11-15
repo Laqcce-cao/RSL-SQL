@@ -52,7 +52,7 @@ laqcce/
 
 
 ```bash
-conda create -n rsl_sql python=3.8
+conda create -n rsl_sql python=3.10
 conda activate rsl_sql
 pip install -r requirements.txt
 ```
