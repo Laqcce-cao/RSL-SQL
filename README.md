@@ -36,6 +36,7 @@
 - Download the `dev.json` file and `dev_tables.json` file of the development set in the `data/` folder. Download address: https://bird-bench.github.io/
 
 - Download the `train-00000-of-00001-fe8894d41b7815be.parquet` file and place it in the `few_shot/` folder. Download address: https://huggingface.co/datasets/xu3kev/BIRD-SQL-data-train/tree/main/data
+- Download the dev_databases file of the development set in the database/ dev_databases. Download address: https://bird-bench.github.io/
 
 
 
